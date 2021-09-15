@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cita"
+            android:icon="@drawable/cita_icon"
+            android:title="@string/citas" />
+        <item
+            android:id="@+id/diagnosticos"
+            android:icon="@drawable/diagnosticos"
+            android:title="@string/diagnosticos" />
+
+    </group>
+
+        <item android:title="@string/perfil">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/editcuenta"
+                    android:icon="@drawable/editar_cuenta"
+                    android:title="@string/editarcuenta" />
+                <item
+                    android:id="@+id/logoutBTN"
+                    android:icon="@drawable/cerrar_sesion"
+                    android:title="@string/cerrarsesion" />
+                </group>
+            </menu>
+        </item>
+
+</menu>

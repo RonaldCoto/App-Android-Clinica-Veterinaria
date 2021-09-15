@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386598758269",
+    "firebase_url": "https://petya-966de.firebaseio.com",
+    "project_id": "petya-966de",
+    "storage_bucket": "petya-966de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386598758269:android:5d34d308e39feb53c64e14",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.petyaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386598758269-d8t2ce8b9o9d2fvcda2s4p7srdvvbpa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEsxRkXw-NEVObmLAx3v4XQqELFGHU39w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386598758269-d8t2ce8b9o9d2fvcda2s4p7srdvvbpa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

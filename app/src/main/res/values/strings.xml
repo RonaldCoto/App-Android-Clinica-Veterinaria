@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">VetYaApp</string>
+    <!--perfil veterinario-->
+    <string name="citas">Citas</string>
+    <string name="horarios">Horarios</string>
+    <string name="diagnosticos">Diagnosticos</string>
+    <string name="editarcuenta">Editar cuenta</string>
+    <string name="cerrarsesion">Cerrar sesión</string>
+    <string name="perfil">Perfil</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="actualizar">Actualizar</string>
+
+    <!--end perfil veterinario-->
+    <!--perfil secretaria-->
+    <string name="nombre_secretaria">Sec. María Escobar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+
+
+    <!--end perfil secretaria-->
+    <!--perfil cliente-->
+    <string name="solicitar_cita">Solicitar cita</string>
+    <string name="nombre_cliente">Roberto Martínez</string>
+    <string name="historial_cliente_citas">Historial de citas</string>
+    <string name="diagn">Diagnostico</string>
+
+    <!--end perfil cliente-->
+    <!--Navigation-->
+    <string name="navigation_drawer_open">Abrir drawer de navegacion</string>
+    <string name="navigation_drawer_close">Cerrar drawer de navegacion</string>
+    <!--Login-->
+    <string name="bienvenida">Hola, Bienvenido a tu veterinaría de confianza</string>
+    <string name="sigin">Iniciar sesión para continuar</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="go">Ir</string>
+    <string name="textregistro">Eres nuevo? Regístrate</string>
+    <string name="google">Google</string>
+    <!--End Login-->
+    <!--Registro-->
+    <string name="bienvenido">Bienvenido</string>
+    <string name="slogan_registro">Registrate para comenzar</string>
+    <string name="nombrecompleto">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="tienescuenta">Ya tienes cuenta? Inicia sesión</string>
+    <!--End Registro-->
+
+    <!--Formulario hacer cita-->
+    <string name="veterinarios">Veterinario(listado de veterinarios)</string>
+    <string name="fecha">Fecha (yyyy-mm-dd)</string>
+    <string name="Hora">Hora</string>
+    <string name="mascota">Nombre mascota</string>
+    <string name="vacunacion">Vacunación (Si/No)</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="especie">Especie</string>
+    <string name="raza">Raza</string>
+    <string name="color">Color</string>
+    <string name="motivo_citas">Motivo de la cita</string>
+    <string name="registrar">Registrar</string>
+
+    <!--End Formulario hacer cita-->
+</resources>

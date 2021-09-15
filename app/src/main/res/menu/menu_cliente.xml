@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/solicitar_cita"
+            android:icon="@drawable/cita_icon"
+            android:title="@string/solicitar_cita" />
+        <item
+            android:id="@+id/historial"
+            android:icon="@drawable/ic_baseline_add_to_queue_24"
+            android:title="@string/historial_cliente_citas" />
+
+
+    </group>
+
+    <item android:title="@string/perfil">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/logoutBTN"
+                    android:icon="@drawable/cerrar_sesion"
+                    android:title="@string/cerrarsesion"
+                    />
+            </group>
+        </menu>
+    </item>
+
+</menu>
